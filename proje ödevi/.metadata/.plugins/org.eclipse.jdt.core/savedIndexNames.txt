@@ -1,0 +1,13 @@
+INDEX VERSION 1.131+C:\proje ödevi\.metadata\.plugins\org.eclipse.jdt.core
+3501714628.index
+3808132865.index
+2459011982.index
+2079469243.index
+1965663881.index
+1865797976.index
+36607519.index
+3851860760.index
+2516340631.index
+2819835659.index
+2090855074.index
+194566708.index
